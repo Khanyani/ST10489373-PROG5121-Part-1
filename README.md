@@ -28,5 +28,5 @@ if all attempts have been used up, the user account will be locked
 ---------------------------
 ## LoginTest
 a test class that will run a series of inputs through the login methods and prints the results to the console:
-this will test the user registration and the login registration
+this will test the user registration and the login registration.
 
